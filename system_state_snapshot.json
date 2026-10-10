@@ -1,0 +1,8 @@
+{
+    "timestamp": "2026-10-05 21:29:45.003335",
+    "state": {
+        "active_agents": 15,
+        "queue_health": "OPTIMAL",
+        "last_job_id": 505
+    }
+}

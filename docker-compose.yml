@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  zankene-app:
+    build: .
+    container_name: zankene_v10_production
+    ports:
+      - "8501:8501"
+    restart: always
