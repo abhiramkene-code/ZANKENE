@@ -1,3 +1,5 @@
+fastapi
+uvicorn
 streamlit>=1.30.0
 beautifulsoup4
 requests
